@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+I'm currently a Lecture with the [School of Management](https://ms.tjut.edu.cn), [Tianjin University of Technology](https://www.tjut.edu.cn/). My research interest includes energy system management under uncertainty, data-driven decision making methods.
+
+I received the B.E. and Ph.D degrees from [Hefei University of Technology](https://www.hfut.edu.cn/), Hefei, China, in 2017 and 2023, respectively. I was with the Department of Computer Science, [University of Exeter](https://exeter.ac.uk), Exeter, UK, as a Visiting Ph.D student, from 2021 to 2022.
+
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](hc3914@email.tjut.edu.cn)
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
