@@ -1,0 +1,15 @@
+---
+title: "Industrial power load scheduling considering demand response"
+collection: publications
+permalink: /publication/2018JCP
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2018-08-27
+venue: 'Journal of Cleaner Production'
+paperurl: 'http://academicpages.github.io/files/2018JCP.pdf'
+citation: 'Cui, H. & Zhou, K. Industrial power load scheduling considering demand response. Journal of Cleaner Production 204, 447–460 (2018).'
+---
+In the smart grid environment, demand response (DR) program has attracted considerable attention for industrial electricity consumers. There are many optimization problems involved in the DR programs especially the process of industrial power load scheduling. As a friendly interaction between utility companies and industrial electricity consumers, DR program plays an important role in smoothing the load curve, improving the reliability of the power grid and reducing the costs for electricity consumers. In this study, we first introduce some related concepts, including smart grid, Industrial Demand Response and the representations of the industrial production process. Then, the optimal scheduling models for industrial power load in the smart grid environment are presented, and the solving methods of the optimization models are discussed. Finally, the challenges are pointed out and discussed.
+
+[Download paper here](http://academicpages.github.io/files/2018JCP.pdf)
+
+Recommended citation: Cui, H. & Zhou, K. Industrial power load scheduling considering demand response. Journal of Cleaner Production 204, 447–460 (2018).
