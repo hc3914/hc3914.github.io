@@ -15,4 +15,4 @@ I received the B.E. and Ph.D degrees from [Hefei University of Technology](https
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Email:hc3914@email.tjut.edu.cn or cuihongbo215@gmail.com
+Email: hc3914@email.tjut.edu.cn or cuihongbo215@gmail.com
