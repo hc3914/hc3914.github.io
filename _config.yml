@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "HC's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hongbo Cui"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hongbo Cui"
   avatar           : "hc.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Tianjin"
+  bio              : "Lecture in TUT"
+  location         : "Xiqing, Tianjin"
   employer         :
   pubmed           :
   googlescholar    :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/hc3914"
   google_plus      :
   keybase          :
   instagram        :
